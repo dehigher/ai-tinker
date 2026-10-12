@@ -1,0 +1,19 @@
+README.md
+  s_70713298e8c767::t_ec9de30de760aa 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.49-trip",
+  "base_commit_sha": "ea73003fc8595ccbc1eece867c8c37704c2733de",
+  "prompts": {},
+  "sessions": {
+    "s_70713298e8c767": {
+      "agent_id": {
+        "tool": "hermes",
+        "id": "20261012_170236_64e843",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "xudegao <xudegao@base.ctripsmartdns.com>"
+    }
+  }
+}
